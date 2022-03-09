@@ -1,5 +1,5 @@
 # Spammer
-> A spammer created with siri shortcuts that supports many apps
+> A spammer created with siri shortcuts
 
 **Click [here](https://github.com/taksheel-club/Spammer/releases/latest) for latest release**
 
