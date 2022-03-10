@@ -1,7 +1,5 @@
 # Spammer
-> A spammer created with siri shortcuts
-
-**Click [here](https://github.com/taksheel-club/Spammer/releases/latest) for latest release**
+*A spammer created with siri shortcuts*
 
 # Known Issues
 - Do not use school wifi
