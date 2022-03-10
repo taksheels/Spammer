@@ -7,9 +7,9 @@
 - Do not use school wifi
 
 # Supported Apps
-- Discord (Webhook)
 - iMessages
-- WhatsApp
+- WhatsApp 
+- Discord (Webhook)
 
 #### Planned Additions
 - Google Chat
