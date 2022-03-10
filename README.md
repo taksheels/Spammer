@@ -4,7 +4,7 @@
 **Click [here](https://github.com/taksheel-club/Spammer/releases/latest) for latest release**
 
 # Known Issues
-- iMessage > Phone Numbers - Will Fix
+- iMessage - Will Fix
 
 # Supported Apps
 - Discord (Webhook)
