@@ -1,4 +1,6 @@
 # Spammer
+![Website](https://img.shields.io/website?down_message=Dad%20Joke&style=for-the-badge&up_message=Dad%20Joke&url=https%3A%2F%2Ficanhazdadjoke.com)
+
 *A spammer created with siri shortcuts*
 
 # Known Issues
