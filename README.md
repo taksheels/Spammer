@@ -6,11 +6,11 @@
 # Supported Apps
 - Discord (Webhook)
 - iMessages
+- WhatsApp
 
 #### Planned Additions
 - Google Chat
 - Google Voice
-- WhatsApp
 
 # Issues
 > Please report any bugs/issues [here](https://github.com/taksheel-club/Spammer/issues/new)
