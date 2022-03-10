@@ -18,7 +18,8 @@
 # Issues
 > Please report any bugs/issues [here](https://github.com/taksheel-club/Spammer/issues/new)
 
-# ![GitHub](https://img.shields.io/github/license/taksheel-club/Spammer?style=for-the-badge)
+# License
+### ![GitHub](https://img.shields.io/github/license/taksheel-club/Spammer?style=for-the-badge)
 ```
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
