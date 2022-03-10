@@ -4,7 +4,7 @@
 **Click [here](https://github.com/taksheel-club/Spammer/releases/latest) for latest release**
 
 # Known Issues
-- iMessage - Will Fix
+- Do not use school wifi
 
 # Supported Apps
 - Discord (Webhook)
