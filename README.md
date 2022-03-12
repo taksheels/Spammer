@@ -5,16 +5,17 @@
 *A spammer created with siri shortcuts*
 
 # Known Issues
-- Do not use school wifi
+- Some school/work networks block certain domains that are required by Spammer
 
 # Supported Apps
 - iMessages
-- WhatsApp 
+- WhatsApp
+- Google Voice
 - Discord (Webhook)
 
 #### Planned Additions
 - Google Chat
-- Google Voice
+- Telegram
 
 # Issues
 > Please report any bugs/issues [here](https://github.com/taksheel-club/Spammer/issues/new)
