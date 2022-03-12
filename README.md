@@ -14,7 +14,6 @@
 - Discord (Webhook)
 
 #### Planned Additions
-- Google Chat
 - Telegram
 
 # Issues
