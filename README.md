@@ -18,7 +18,7 @@
 > Please report any bugs/issues [here](https://github.com/taksheel-club/Spammer/issues/new)
 
 # Known Issues
-- Some school/work networks block certain domains that are required by Spammer
+- Some school/work networks block certain spammer modes
 
 # License
 ### ![GitHub](https://img.shields.io/github/license/taksheel-club/Spammer?style=for-the-badge)
