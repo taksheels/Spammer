@@ -6,6 +6,7 @@
 
 # Supported Apps
 - iMessages
+- Phone
 - WhatsApp
 - Google Voice
 - Discord (Webhook)
