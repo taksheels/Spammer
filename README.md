@@ -13,7 +13,7 @@
 - Discord (Webhook)
 
 #### Planned Additions
-- Telegram
+- Recommend some in Issues!
 
 # Issues
 > Please report any bugs/issues [here](https://github.com/taksheel-club/Spammer/issues/new)
