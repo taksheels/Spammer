@@ -5,21 +5,29 @@
 
 *A spammer created with siri shortcuts*
 
+```
+(Update 5/19/2022): Massive overhaul, v3.0 coming soon!
+```
+
 # Supported Apps
 - iMessages
-- Phone
 - WhatsApp
 - Google Voice
-- Discord (Webhook)
+- Discord
 
-#### Planned Additions
-- Recommend some in Issues!
+#### Planned Updates
+- Fix Dog Facts Spammer
+- Adding Full Discord Spammer, not just webhook
+- Getting all messages at once, rather than asking for one at a time (Reducing API Requests)
+- Full UI redesign w/vCards
+- Phone Call Spammer
 
 # Issues
 > Please report any bugs/issues [here](https://github.com/taksheel-club/Spammer/issues/new)
 
 # Known Issues
-- Some school/work networks block certain spammer modes
+- Network Block (School/Work) -- **Use a VPN, Cellular Data, or change device DNS**
+- Dog Facts Spammer goes down a lot -- **See [Planned Updates](https://github.com/taksheel-club/Spammer/edit/main/README.md#known-issues)
 
 # License
 ### ![GitHub](https://img.shields.io/github/license/taksheel-club/Spammer?style=for-the-badge)
