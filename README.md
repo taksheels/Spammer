@@ -27,7 +27,7 @@
 
 # Known Issues
 - Network Block (School/Work) -- **Use a VPN, Cellular Data, or change device DNS**
-- Dog Facts Spammer goes down a lot -- **See [Planned Updates](https://github.com/taksheel-club/Spammer/edit/main/README.md#known-issues)
+- Dog Facts Spammer goes down a lot -- **See [Planned Updates](https://github.com/taksheel-club/Spammer/edit/main/README.md#known-issues)**
 
 # License
 ### ![GitHub](https://img.shields.io/github/license/taksheel-club/Spammer?style=for-the-badge)
