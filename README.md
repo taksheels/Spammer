@@ -6,7 +6,7 @@
 *A spammer created with siri shortcuts*
 
 ```
-(Update 5/19/2022): Massive overhaul, v3.0 coming soon!
+(Update 5/19/2022): Massive overhaul, v3.0 coming 2023
 ```
 
 # Supported Apps
