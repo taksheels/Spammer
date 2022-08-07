@@ -15,19 +15,8 @@
 - Google Voice
 - Discord
 
-#### Planned Updates
-- Fix Dog Facts Spammer
-- Adding Full Discord Spammer, not just webhook
-- Getting all messages at once, rather than asking for one at a time (Reducing API Requests)
-- Full UI redesign w/vCards
-- Phone Call Spammer
-
 # Issues
 > Please report any bugs/issues [here](https://github.com/taksheel-club/Spammer/issues/new)
-
-# Known Issues
-- Network Block (School/Work) -- **Use a VPN, Cellular Data, or change device DNS**
-- Dog Facts Spammer goes down a lot -- **See [Planned Updates](https://github.com/taksheel-club/Spammer/blob/main/README.md#planned-updates)**
 
 # License
 ### ![GitHub](https://img.shields.io/github/license/taksheel-club/Spammer?style=for-the-badge)
