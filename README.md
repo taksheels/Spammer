@@ -6,7 +6,7 @@
 *A spammer created with siri shortcuts*
 
 ```
-(Update 10/18/2022): The "Get Contents from URL" function appears to be broken, a HOTFIX has been released.
+(Update 10/19/2022): Apparently the AutoUpdater issues was with certain mobile carriers, not a problem with shortcuts itself, disregard. 
 ```
 
 # Supported Apps
