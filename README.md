@@ -6,7 +6,7 @@
 *A spammer created with siri shortcuts*
 
 ```
-(Update 5/19/2022): Massive overhaul, v3.0 coming 2023
+(Update 10/18/2022): The "Get Contents from URL" function appears to be broken, a HOTFIX has been released.
 ```
 
 # Supported Apps
