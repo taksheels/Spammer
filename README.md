@@ -6,7 +6,7 @@
 *A spammer created with siri shortcuts*
 
 ```
-(Update 10/19/2022): Apparently the AutoUpdater issues was with certain mobile carriers, not a problem with shortcuts itself, disregard. 
+(Update 1/11/2023): Switched to a Google Pixel 7 Pro, do not own an iPhone anymore. Archived.
 ```
 
 # Supported Apps
