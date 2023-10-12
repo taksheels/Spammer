@@ -1,12 +1,12 @@
 # Spammer
 ![Website](https://img.shields.io/website?down_message=Dad%20Joke&style=for-the-badge&up_message=Dad%20Joke&url=https%3A%2F%2Ficanhazdadjoke.com)
-![Website](https://img.shields.io/website?down_message=Dog%20Facts&style=for-the-badge&up_message=Dog%20Facts&url=https%3A%2F%2Fdog-facts-api.herokuapp.com%2F)
+![Website](https://img.shields.io/website?down_message=Dog%20Facts&style=for-the-badge&up_message=Dog%20Facts&url=https%3A%2F%2Fdog-api.kinduff.com%2F)
 ![Website](https://img.shields.io/website?down_message=Insult&style=for-the-badge&up_message=Insult&url=https%3A%2F%2Fevilinsult.com%2Fgenerate_insult.php%3Flang%3Den%26type%3Djson)
 
 *A spammer created with siri shortcuts*
 
 ```
-(Update 1/11/2023): Switched to a Google Pixel 7 Pro, do not own an iPhone anymore. Archived.
+(Update 10/11/2023): Will attempt to maintain, and maybe improve
 ```
 
 # Supported Apps
@@ -16,7 +16,7 @@
 - Discord
 
 # Issues
-> Please report any bugs/issues [here](https://github.com/taksheel-club/Spammer/issues/new)
+> Please report any bugs/issues [here](https://github.com/taksheels/Spammer/issues/new)
 
 # License
 ### ![GitHub](https://img.shields.io/github/license/taksheel-club/Spammer?style=for-the-badge)
@@ -29,4 +29,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-### Copyright (c) 2022 taksheel-club
+### Copyright (c) 2023 taksheels
