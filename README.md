@@ -19,7 +19,7 @@
 > Please report any bugs/issues [here](https://github.com/taksheels/Spammer/issues/new)
 
 # License
-### ![GitHub](https://img.shields.io/github/license/taksheel-club/Spammer?style=for-the-badge)
+### ![GitHub](https://img.shields.io/github/license/taksheels/Spammer?style=for-the-badge)
 ```
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -29,4 +29,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-### Copyright (c) 2023 taksheels
+### Copyright (c) 2022-2023 taksheels
