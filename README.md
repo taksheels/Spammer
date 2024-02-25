@@ -6,7 +6,7 @@
 *A spammer created with siri shortcuts*
 
 ```
-(Update 10/11/2023): Will attempt to maintain, and maybe improve
+(Update 2/25/2024): Archived
 ```
 
 # Supported Apps
